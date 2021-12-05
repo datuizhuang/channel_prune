@@ -9,4 +9,4 @@ python CIFAR_train.py
 ```
 
 Note:
-<br>PruneTool can prune the model with redidual, but OldPruneTool ignore the residual(for BottleNeck, OldPruneTool will only prune the first two conv)
+<br>PruneTool can prune the model with residual, but OldPruneTool ignore the residual(for BottleNeck, OldPruneTool will only prune the first two conv)
